@@ -1,0 +1,13 @@
+3. Considerando as variáveis declaradas na tabela abaixo e mais a variável booleana TESTE, com valor FALSO, avalie as expressões a seguir, para cada uma das três combinações de valores apresentadas:
+
+Variáveis
+    A	      B    NOME	       PROFISSÃO
+01	3   	 16 	'MIRIAM     'ADVOGADO'
+02	5   	 64 	'PEDRO'    	'MEDICO'
+03	2,5    	9 	'ANA' 	    'PROFESSOR'
+Reposta:
+
+    a	b	c	d	e
+01	V	F	V	V	F
+02	V	F	F	V	F
+03	V	F	F	V	F
