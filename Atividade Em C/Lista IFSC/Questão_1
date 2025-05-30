@@ -1,0 +1,13 @@
+Calcule o valor de cada expressão abaixo e indique o tipo de resultado (inteiro ou real):
+a) (20 - 15)/2= Real
+b) 20 - 15/2= Real
+c) 2*5/20 + 30/15*2= Real
+d) 2*(5/20) + 30/(15*2)= Real
+e) 23 div 4= inteiro
+f) 23 mod 4= inteiro
+g) 35 div 6 + 2= inteiro
+h) 35 div 6 - 2= inteiro
+i) 35 div 6 * 2= inteiro
+j) sqrt(625)= inteiro
+k) sqr(20)= real
+l) 2 + sqrt(21 div 5)= inteiro
