@@ -5,15 +5,15 @@ int main() {
     printf("Qual sua nota:\n");
     scanf("%d",&a);
     if(a>=0 && a<=49){
-    printf("Nota Insuficiente");
+    printf("Sua nota é: %d\nConceito Insuficiente",a);
     }
     if(a>=50 && a<=64){
-    printf("Nota Regular");
+    printf("Sua nota é: %d\nConceito Regular",a);
     }
     if(a>=65 && a<=84){
-    printf("Nota Bom");
+    printf("Sua nota é: %d\nConceito Bom",a);
     }
     if(a>=85 && a<=100){
-    printf("Nota Ótimo");
+    printf("Sua nota é: %d\nConceito Ótimo",a);
     }
 }
