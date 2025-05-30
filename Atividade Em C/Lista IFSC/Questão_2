@@ -1,0 +1,7 @@
+2. Escreva em pseudocódigo as seguintes expressões matemáticas:
+
+a) (A + B) * C = resultado ← (A + B) * C
+b) TOTAL / N = media ← TOTAL / N
+c) A - B(C + D²) / E = resultado ← A - (B * (C + D^2)) / E
+d) base^expoente = potencia ← base ^ expoente
+e) a * b^c = resultado ← a * (b ^ c)
