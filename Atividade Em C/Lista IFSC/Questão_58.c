@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 int main() {
-    int num1,num2,num3,media;
+    float num1,num2,num3,media;
 
     printf("Informe a primeira nota:\n");
-    scanf("%d", &num1);
+    scanf("%f", &num1);
 
     printf("Informe a Segunda nota:\n");
-    scanf("%d", &num2);
+    scanf("%f", &num2);
     
     printf("Informe a terceira nota:\n");
-    scanf("%d", &num3);
+    scanf("%f", &num3);
     
     if(num1>=num2 && num1>=num3){
         media=(num1*4+num2*3+num3*3)/10;
